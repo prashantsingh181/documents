@@ -133,4 +133,3 @@ a.disabled {
 ✔ **Use hover effects to improve user experience.**  
 ✔ **Ensure enough contrast between text and background.**  
 ✔ **Add `:focus` styles for better keyboard navigation.**
-

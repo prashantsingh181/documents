@@ -164,7 +164,7 @@ div {
 | **RGBA**            | `rgba(R, G, B, A)` | `color: rgba(255, 0, 0, 0.5);`    | Adds transparency.         |
 | **HSL**             | `hsl(H, S, L)`     | `color: hsl(0, 100%, 50%);`       | More human-friendly.       |
 | **HSLA**            | `hsla(H, S, L, A)` | `color: hsla(0, 100%, 50%, 0.5);` | HSL + transparency.        |
-| **currentColor**  | `currentColor`     | `border: 1px solid currentColor;` | Uses inherited text color. |
+| **currentColor**    | `currentColor`     | `border: 1px solid currentColor;` | Uses inherited text color. |
 | **Transparent**     | `transparent`      | `background: transparent;`        | Fully invisible.           |
 
 ---

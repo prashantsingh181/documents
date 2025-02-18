@@ -2,7 +2,7 @@
 
 CSS selectors are patterns used to select and style HTML elements. There are different types of selectors based on how elements are targeted.
 
-----------
+---
 
 ## **1. Basic Selectors**
 
@@ -14,8 +14,8 @@ Selects all elements on the page.
 
 ```css
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 ```
 
@@ -27,7 +27,7 @@ Selects all instances of a specific HTML tag.
 
 ```css
 p {
-    color: blue;
+  color: blue;
 }
 ```
 
@@ -41,7 +41,7 @@ Targets elements with a specific class.
 
 ```css
 .text {
-    font-size: 18px;
+  font-size: 18px;
 }
 ```
 
@@ -57,7 +57,7 @@ Targets an element with a specific ID (must be unique).
 
 ```css
 #main-heading {
-    font-weight: bold;
+  font-weight: bold;
 }
 ```
 
@@ -65,7 +65,7 @@ Targets an element with a specific ID (must be unique).
 <h1 id="main-heading">Hello</h1>
 ```
 
-----------
+---
 
 ## **2. Grouping & Combinator Selectors**
 
@@ -76,8 +76,10 @@ Applies the same styles to multiple elements.
 #### Example:
 
 ```css
-h1, h2, h3 {
-    color: darkblue;
+h1,
+h2,
+h3 {
+  color: darkblue;
 }
 ```
 
@@ -89,7 +91,7 @@ Selects elements inside another element.
 
 ```css
 div p {
-    color: red;
+  color: red;
 }
 ```
 
@@ -103,7 +105,7 @@ Selects direct children only (not deeper nested elements).
 
 ```css
 div > p {
-    color: green;
+  color: green;
 }
 ```
 
@@ -115,7 +117,7 @@ Selects an element immediately after another.
 
 ```css
 h1 + p {
-    color: orange;
+  color: orange;
 }
 ```
 
@@ -129,11 +131,11 @@ Selects all matching siblings after a given element.
 
 ```css
 h1 ~ p {
-    color: purple;
+  color: purple;
 }
 ```
 
-----------
+---
 
 ## **3. Attribute Selectors**
 
@@ -141,7 +143,7 @@ h1 ~ p {
 
 ```css
 input[type="text"] {
-    border: 1px solid black;
+  border: 1px solid black;
 }
 ```
 
@@ -151,7 +153,7 @@ Targets `<input type="text">`.
 
 ```css
 input[required] {
-    border: 2px solid red;
+  border: 2px solid red;
 }
 ```
 
@@ -159,11 +161,11 @@ Targets any `<input>` with the `required` attribute.
 
 ### **c) Partial Attribute Match**
 
--   **Starts with (`^=`)** → `a[href^="https"]` (links that start with `https`).
--   **Ends with (`$=`)** → `img[src$=".png"]` (images that end in `.png`).
--   **Contains (`*=`)** → `div[class*="box"]` (elements whose class contains "box").
+- **Starts with (`^=`)** → `a[href^="https"]` (links that start with `https`).
+- **Ends with (`$=`)** → `img[src$=".png"]` (images that end in `.png`).
+- **Contains (`*=`)** → `div[class*="box"]` (elements whose class contains "box").
 
-----------
+---
 
 ## **4. Pseudo-Classes (`:`)**
 
@@ -171,13 +173,13 @@ Targets any `<input>` with the `required` attribute.
 
 ```css
 button:hover {
-    background-color: yellow;
+  background-color: yellow;
 }
 button:focus {
-    outline: 2px solid blue;
+  outline: 2px solid blue;
 }
 button:active {
-    transform: scale(0.95);
+  transform: scale(0.95);
 }
 ```
 
@@ -185,10 +187,10 @@ button:active {
 
 ```css
 ul li:first-child {
-    font-weight: bold;
+  font-weight: bold;
 }
 ul li:last-child {
-    color: red;
+  color: red;
 }
 ```
 
@@ -196,13 +198,13 @@ ul li:last-child {
 
 ```css
 tr:nth-child(even) {
-    background-color: lightgray;
+  background-color: lightgray;
 }
 ```
 
 Applies styles to every even row.
 
-----------
+---
 
 ## **5. Pseudo-Elements (`::`)**
 
@@ -210,12 +212,12 @@ Applies styles to every even row.
 
 ```css
 p::before {
-    content: "→ ";
-    color: blue;
+  content: "→ ";
+  color: blue;
 }
 p::after {
-    content: " ←";
-    color: red;
+  content: " ←";
+  color: red;
 }
 ```
 
@@ -225,11 +227,11 @@ Adds symbols before and after paragraphs.
 
 ```css
 p::first-letter {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 p::first-line {
-    color: gray;
+  color: gray;
 }
 ```
 
-----------
+---
