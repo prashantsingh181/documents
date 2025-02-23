@@ -1,4 +1,4 @@
-# **CSS `position` Property – Complete Guide 📍**
+# **CSS `position` Property**
 
 The `position` property in CSS controls how an element is **placed** in the document. It determines whether an element follows the normal document flow or is positioned independently.
 
