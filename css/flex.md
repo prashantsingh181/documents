@@ -1,7 +1,3 @@
-Got it! Here's a **detailed** breakdown of **Flexbox** with advanced concepts, examples, and best practices. 🚀
-
----
-
 # **CSS Flexbox – The Complete Guide**
 
 CSS Flexbox (**Flexible Box Layout**) is a **one-dimensional** layout model that helps position and distribute elements **horizontally or vertically**. It provides **better control** over alignment, spacing, and resizing of elements inside a container.
