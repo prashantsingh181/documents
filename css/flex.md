@@ -284,10 +284,19 @@ Changes the **visual order** without changing HTML structure.
 ```css
 .container {
   display: flex;
-  flex-direction: row; /* row | column */
-  justify-content: center; /* flex-start | center | space-between */
-  align-items: center; /* flex-start | center | stretch */
-  flex-wrap: wrap; /* wrap | nowrap */
+  flex-direction: row; /* row | row-reverse | column | column-reverse */
+  justify-content: flex-start; /* flex-start | flex-end | center | space-between | space-around | space-evenly */
+  align-items: stretch; /* flex-start | flex-end | center | stretch | baseline */
+  flex-wrap: nowrap; /* nowrap | wrap | wrap-reverse */
+  align-content: flex-start; /* flex-start | flex-end | center | space-between | space-around | stretch */
+}
+
+.item {
+  flex-grow: 0; /* 0 (default) | Positive integer */
+  flex-shrink: 1; /* 1 (default) | 0 (no shrinking) */
+  flex-basis: auto; /* auto | px | % | rem */
+  flex: 0 1 auto; /* flex-grow flex-shrink flex-basis */
+  order: 0; /* 0 (default) | Positive/Negative integers */
 }
 ```
 
