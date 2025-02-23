@@ -1,4 +1,4 @@
-# **📸 CSS Images – A Complete Guide**
+# **📸 CSS Images**
 
 Images in CSS can be used in multiple ways, including setting **backgrounds**, controlling **size**, applying **filters**, and more. Let’s explore everything in detail.
 
