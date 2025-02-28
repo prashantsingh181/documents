@@ -1,4 +1,4 @@
-# **CSS Columns – Multi-Column Layout 📖**
+# **CSS Columns – Multi-Column Layout** 📖
 
 The `columns` property in CSS allows you to create a **multi-column layout**, where text and content **automatically flow** into multiple columns, similar to a newspaper or magazine.
 

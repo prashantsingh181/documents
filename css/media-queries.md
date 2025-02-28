@@ -1,4 +1,4 @@
-# **📌 Media Queries in CSS – A Complete Guide**
+# 📌 **Media Queries in CSS – A Complete Guide**
 
 CSS **media queries** allow you to create **responsive designs** by applying styles based on the **screen size**, **device type**, **orientation**, and even **user preferences** like dark mode.
 

@@ -1,4 +1,4 @@
-# CSS (Cascading Style Sheet)
+# **CSS (Cascading Style Sheet)**
 
 CSS (Cascading Style Sheets) is a language used to **style** web pages. It controls the **layout, colors, fonts, and spacing** of HTML elements to make websites look visually appealing.
 

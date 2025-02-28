@@ -1,4 +1,4 @@
-# CSS Selectors
+# **CSS Selectors**
 
 CSS selectors are patterns used to select and style HTML elements. There are different types of selectors based on how elements are targeted.
 

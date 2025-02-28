@@ -1,4 +1,4 @@
-# **List Styles in CSS 📜**
+# **List Styles in CSS** 📜
 
 CSS provides various ways to style lists (`<ul>`, `<ol>`, and `<li>`) to enhance their appearance.
 

@@ -1,4 +1,4 @@
-# 🎭 CSS Pseudo-Classes & Pseudo-Elements
+# 🎭 **CSS Pseudo-Classes & Pseudo-Elements**
 
 CSS **pseudo-classes** and **pseudo-elements** help us **style elements dynamically** without adding extra HTML or JavaScript. Let's dive deep into their usage and examples.
 

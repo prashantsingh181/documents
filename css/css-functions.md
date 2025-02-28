@@ -1,4 +1,4 @@
-# 🎨 CSS Functions – Enhance Your Styles Dynamically
+# 🎨 **CSS Functions – Enhance Your Styles Dynamically**
 
 CSS functions allow you to **perform calculations, manipulate colors, retrieve values dynamically, and control layouts** efficiently. Here’s a breakdown of the most useful CSS functions! 🚀
 

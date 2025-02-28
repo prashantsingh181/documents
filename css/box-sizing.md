@@ -1,4 +1,4 @@
-# CSS Box Model 📦
+# **CSS Box Model** 📦
 
 The **CSS Box Model** describes how elements are structured in a webpage. Every HTML element is treated as a rectangular box with **four main parts**:
 

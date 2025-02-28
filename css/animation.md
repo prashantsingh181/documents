@@ -1,4 +1,4 @@
-# 🎬 CSS Animations
+# 🎬 **CSS Animations**
 
 CSS animations allow you to **bring elements to life** without JavaScript! You can create smooth transitions, fades, movements, and more with just a few lines of code.
 

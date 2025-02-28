@@ -1,4 +1,4 @@
-# CSS `float`
+# **CSS `float`**
 
 The `float` property is used to position elements to the left or right while allowing text and inline elements to wrap around them. However, it often creates layout issues, especially with parent containers collapsing. This is where `display: flow-root` comes in as a modern fix!
 

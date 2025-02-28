@@ -1,4 +1,4 @@
-# Colors in CSS 🎨
+# **Colors in CSS** 🎨
 
 CSS provides multiple ways to define colors for elements, including **named colors, hexadecimal values, RGB, HSL**, and more. Let's explore them all!
 

@@ -1,4 +1,4 @@
-# **Typography in CSS 🖋️**
+# **Typography in CSS** 🖋️
 
 Typography in CSS refers to styling text to enhance readability and design. It includes properties like **font selection, size, weight, spacing, alignment, and more**.
 

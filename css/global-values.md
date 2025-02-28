@@ -1,4 +1,4 @@
-# CSS Global Values
+# **CSS Global Values**
 
 CSS provides several **global values** that allow you to control how properties behave, whether they inherit, reset, or revert to previous styles. These values ensure flexibility when managing styles across different elements.
 

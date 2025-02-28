@@ -1,4 +1,4 @@
-# CSS Specificity
+# **CSS Specificity**
 
 [Specificity Calculator](https://specificity.keegan.st/)
 

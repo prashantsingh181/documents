@@ -1,4 +1,4 @@
-# 🎨 CSS Transitions
+# 🎨 **CSS Transitions**
 
 CSS **transitions** allow you to animate changes in **CSS properties** smoothly over time instead of having them change instantly.
 

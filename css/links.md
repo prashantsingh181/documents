@@ -1,4 +1,4 @@
-# **Links in CSS 🔗**
+# **Links in CSS** 🔗
 
 Links (`<a>` tags) are a crucial part of web design. CSS allows us to style them to improve usability and appearance.
 

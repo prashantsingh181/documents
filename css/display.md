@@ -1,4 +1,4 @@
-# CSS `display` Property 🎭
+# **CSS `display` Property** 🎭
 
 The `display` property in CSS determines how an element is rendered and how it interacts with surrounding elements. It plays a crucial role in structuring a webpage by controlling **visibility, layout, and spacing**.
 

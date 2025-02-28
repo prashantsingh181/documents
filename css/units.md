@@ -1,4 +1,4 @@
-# CSS Units 📏
+# **CSS Units** 📏
 
 CSS uses **units** to define lengths, sizes, spacing, and positioning of elements. These units are divided into **absolute** and **relative** types.
 
