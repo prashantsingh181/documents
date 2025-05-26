@@ -1,4 +1,4 @@
-# 📘 Algorithms - Introduction
+# 📘 Algorithms
 
 ## 🔍 What is an Algorithm?
 
@@ -63,22 +63,22 @@ To be considered valid and effective, an algorithm must follow these five key ch
 
 ## 📌 Summary Table
 
-| Characteristic                            | Description |
-|-------------------------------------------|-------------|
-| **Defined Problem, Input & Output**       | What is the task, and what data goes in/out |
-| **Specific Order of Steps**               | Instructions must follow a logical sequence |
-| **Clear Instructions**                    | Each step must be easy to understand and execute |
-| **Finite Time**                           | Algorithm must complete in limited steps |
-| **Produces a Result**                     | Must return a meaningful outcome |
+| Characteristic                      | Description                                      |
+| ----------------------------------- | ------------------------------------------------ |
+| **Defined Problem, Input & Output** | What is the task, and what data goes in/out      |
+| **Specific Order of Steps**         | Instructions must follow a logical sequence      |
+| **Clear Instructions**              | Each step must be easy to understand and execute |
+| **Finite Time**                     | Algorithm must complete in limited steps         |
+| **Produces a Result**               | Must return a meaningful outcome                 |
 
 ---
-
 
 ## ✅ Correctness
 
 An algorithm is **correct** if it solves the given problem for **all valid inputs** and produces the **expected output**.
 
 ### ✔️ Key Points:
+
 - It should handle all possible input cases (edge cases included).
 - It should terminate for all possible input cases
 - It should not produce errors or incorrect results.
@@ -86,6 +86,7 @@ An algorithm is **correct** if it solves the given problem for **all valid input
 > 🔸 Example: A sorting algorithm should always return a sorted array for any valid input.
 
 ### 📌 Tip:
+
 > Prove correctness by using **dry runs** and **test cases**.
 
 ---
@@ -120,10 +121,10 @@ Sometimes, faster algorithms use more memory, and memory-efficient ones may run 
 
 ## 📌 Summary Table
 
-| Measure       | What It Means                         | How to Analyze           |
-|----------------|----------------------------------------|---------------------------|
-| **Correctness** | Produces the right result for all inputs | Test with edge cases     |
-| **Time**        | How long it takes to run              | Use Time Complexity       |
-| **Space**       | How much memory it uses              | Use Space Complexity      |
+| Measure         | What It Means                            | How to Analyze       |
+| --------------- | ---------------------------------------- | -------------------- |
+| **Correctness** | Produces the right result for all inputs | Test with edge cases |
+| **Time**        | How long it takes to run                 | Use Time Complexity  |
+| **Space**       | How much memory it uses                  | Use Space Complexity |
 
 ---
